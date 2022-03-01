@@ -37,7 +37,7 @@ Tout d'abord, j'ai utilisé un réseau de neurones, en classification et en rég
 Ce système est très efficace mais assez long à entrainer afin d'obtenir des résultats probant.
 
 ### K Plus proches voisins
-J'ai ensuite utilisé l'algorithme des K plus proches voisins.
+J'ai ensuite utilisé l'algorithme des K plus proches voisins, en classification et en régression.
 
 <p align="center">
   <img src="https://miro.medium.com/max/405/1*0Pqqx6wGDfFm_7GLebg2Hw.png" />
@@ -47,7 +47,7 @@ Cet algorithme utilise un nombre défini de voisin pour définir son état (ici 
 
 ### Arbre de décision
 
-Pour finir, j'ai pu utiliser un arbre de décision.
+Pour finir, j'ai pu utiliser un arbre de décision, cette fois ci aussi, en classification et en régression.
 <p align="center">
   <img width="600px" src="https://miro.medium.com/max/1400/0*PB7MYQfzyaLaTp1n" />
 </p>
